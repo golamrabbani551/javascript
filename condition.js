@@ -54,8 +54,8 @@
 // }
 
 
-let rostGiven = 1;
-while(rostGiven < 8){
-    console.log('pleace give me rost!!!');
-    rostGiven++;
-}
+
+
+
+
+
